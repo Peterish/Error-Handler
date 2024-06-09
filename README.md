@@ -9,16 +9,10 @@ This project showcases the implementation of a Solidity smart contract named "Ta
 
 Follow these steps to get the project up and running on your local machine.
 
-**Prerequisites**
-
-    - Node.js and npm installed on your machine.
-
-- Clone this repository locally - git clone https://github.com/your-username/your-contract.git
-- Change directory into your project - cd your-contract-app
-- Install dependencies using npm install.
-- Compile the contract using Hardhat - npx hardhat compile 
-- Deploy the contract using Hardhat.
+- Copy the Pish.sol code to Remix IDE
+- Compile and deploy the contract
+- Interact with the deployed contract by calling the functions
 
 ## Author
 
-- 0xPeterIsh
+- 0xPeterish
